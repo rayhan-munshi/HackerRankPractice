@@ -1,8 +1,0 @@
-C:\Users\Rayhan\source\repos\hr-left-rotation\hr-left-rotation\bin\Debug\hr-left-rotation.exe.config
-C:\Users\Rayhan\source\repos\hr-left-rotation\hr-left-rotation\bin\Debug\hr-left-rotation.exe
-C:\Users\Rayhan\source\repos\hr-left-rotation\hr-left-rotation\bin\Debug\hr-left-rotation.pdb
-C:\Users\Rayhan\source\repos\hr-left-rotation\hr-left-rotation\obj\Debug\hr-left-rotation.csproj.AssemblyReference.cache
-C:\Users\Rayhan\source\repos\hr-left-rotation\hr-left-rotation\obj\Debug\hr-left-rotation.csproj.SuggestedBindingRedirects.cache
-C:\Users\Rayhan\source\repos\hr-left-rotation\hr-left-rotation\obj\Debug\hr-left-rotation.csproj.CoreCompileInputs.cache
-C:\Users\Rayhan\source\repos\hr-left-rotation\hr-left-rotation\obj\Debug\hr-left-rotation.exe
-C:\Users\Rayhan\source\repos\hr-left-rotation\hr-left-rotation\obj\Debug\hr-left-rotation.pdb
